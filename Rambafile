@@ -1,0 +1,35 @@
+### Headers settings
+company: Demo Inc.
+
+### Xcode project settings
+project_name: VIPER IOS Demo
+xcodeproj_path: VIPER IOS Demo.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: VIPER IOS Demo
+
+# The file path for new modules
+project_file_path: Sources/Modules
+
+# The Xcode group path to new modules
+project_group_path: Sources/Modules
+
+### Tests generation settings section
+# The tests target name
+test_target: VIPER IOS DemoTests
+
+# The file path for new tests
+test_file_path: Sources/Modules
+
+# The Xcode group path to new tests
+test_group_path: Sources/Modules
+
+### Dependencies settings section
+podfile_path: Podfile
+
+### Templates
+templates:
+- {name: template, local: '/Users/setoelkahfi/GenerambaTemplate/template'}
+#- {name: swifty_viper, git: 'https://github.com/rambler-digital-solutions/generamba-catalog'}
+#- {name: catalog_template_name}

@@ -104,7 +104,6 @@
 			children = (
 				B8A42E8424AC92771330BE15 /* HomeModule */,
 			);
-			name = Modules;
 			path = Modules;
 			sourceTree = "<group>";
 		};
@@ -113,7 +112,6 @@
 			children = (
 				56D886097EF393564B0FAEE9 /* Modules */,
 			);
-			name = Sources;
 			path = Sources;
 			sourceTree = "<group>";
 		};
@@ -139,7 +137,6 @@
 				8A50403D2064BBC3000F9335 /* Products */,
 				7DA4B634E495CEDD79860619 /* Pods */,
 				E2CE8579E012A45A2C6621E4 /* Frameworks */,
-				7D51465B62E7C34499BF8B8C /* Sources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -156,6 +153,7 @@
 		8A50403E2064BBC3000F9335 /* VIPER IOS Demo */ = {
 			isa = PBXGroup;
 			children = (
+				7D51465B62E7C34499BF8B8C /* Sources */,
 				8A50403F2064BBC3000F9335 /* AppDelegate.swift */,
 				8A5040412064BBC3000F9335 /* ViewController.swift */,
 				8A5040432064BBC3000F9335 /* Main.storyboard */,
@@ -193,7 +191,6 @@
 				6B8CE253F391D00F5E8AAFBB /* HomeModuleInteractor.swift */,
 				64B6396DE363DC11C3520D39 /* HomeModuleWireframe.swift */,
 			);
-			name = HomeModule;
 			path = HomeModule;
 			sourceTree = "<group>";
 		};

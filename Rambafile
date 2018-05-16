@@ -10,20 +10,20 @@ xcodeproj_path: VIPER IOS Demo.xcodeproj
 project_target: VIPER IOS Demo
 
 # The file path for new modules
-project_file_path: Sources/Modules
+project_file_path: VIPER IOS Demo/Sources/Modules
 
 # The Xcode group path to new modules
-project_group_path: Sources/Modules
+project_group_path: VIPER IOS Demo/Sources/Modules
 
 ### Tests generation settings section
 # The tests target name
 test_target: VIPER IOS DemoTests
 
 # The file path for new tests
-test_file_path: Sources/Modules
+test_file_path: VIPER IOS DemoTests/Sources/Modules
 
 # The Xcode group path to new tests
-test_group_path: Sources/Modules
+test_group_path: VIPER IOS DemoTests/Sources/Modules
 
 ### Dependencies settings section
 podfile_path: Podfile
